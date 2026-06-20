@@ -61,10 +61,10 @@ Our goal is simple:
 </p>
 
 | Project | Website |
-|---------|----------|
-| RSS Smart Event | [www.rssmartevent.com](https://www.rssmartevent.com) |
-| Fiber Internet Express | [www.fiberinternetexpress.com](https://www.fiberinternetexpress.com) |
-| 3F Food Product | [www.3ffoodproduct.com](https://www.3ffoodproduct.com) |
+|:--------|:--------:|
+| RSS Smart Event | [rssmartevent.com](https://www.rssmartevent.com) |
+| Fiber Internet Express | [fiberinternetexpress.com](https://www.fiberinternetexpress.com) |
+| 3F Food Product | [3ffoodproduct.com](https://www.3ffoodproduct.com) |
 
 ---
 
@@ -101,23 +101,33 @@ Just meaningful solutions.
 
 <h1 align="center">✦ Connect With Us ✦</h1>
 
-<p align="center">
-  <a href="https://nobhino-nk.github.io/SurePath/">
-    <img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
+<table align="center">
+<tr>
+<td align="center">
+<a href="https://nobhino-nk.github.io/SurePath/">
+<img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+</td>
 
-  <a href="https://www.instagram.com/surep.ath?igsh=MXZqbnoyOG91aTh1MA==">
-    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<td align="center">
+<a href="https://www.instagram.com/surep.ath?igsh=MXZqbnoyOG91aTh1MA==">
+<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</td>
 
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<td align="center">
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</td>
 
-  <a href="https://github.com/surepathofficial-dev">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<td align="center">
+<a href="https://github.com/surepathofficial-dev">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</td>
+</tr>
+</table>
 
 ---
 
