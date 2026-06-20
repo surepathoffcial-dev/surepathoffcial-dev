@@ -62,9 +62,9 @@ Our goal is simple:
 
 | Project | Website |
 |---------|----------|
-| RSS Smart Event | [Visit Website](https://www.rssmartevent.com) |
-| Fiber Internet Express | [Visit Website](https://www.fiberinternetexpress.com) |
-| 3F Food Product | [Visit Website](https://www.3ffoodproduct.com) |
+| RSS Smart Event | [www.rssmartevent.com](https://www.rssmartevent.com) |
+| Fiber Internet Express | [www.fiberinternetexpress.com](https://www.fiberinternetexpress.com) |
+| 3F Food Product | [www.3ffoodproduct.com](https://www.3ffoodproduct.com) |
 
 ---
 
@@ -99,9 +99,9 @@ Just meaningful solutions.
 
 ---
 
-<p align="center">
-  <h1 align="center">✦ Connect With Us ✦</h1>
+<h1 align="center">✦ Connect With Us ✦</h1>
 
+<p align="center">
   <a href="https://nobhino-nk.github.io/SurePath/">
     <img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
