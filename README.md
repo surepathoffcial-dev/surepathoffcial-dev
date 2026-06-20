@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./icon.png" width="130">
+  <img src="./logo.png" width="400">
 </p>
 
 <p align="center">
@@ -24,14 +24,11 @@
 
 <br>
 
-<p align="center">
-  <img src="./logo2.png" width="400">
-</p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/About-SurePath-365D7A?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=250&lines=About+SurePath"/>
 </p>
 
 SurePath is focused on helping businesses, individuals, and organizations establish their digital presence through clean design, functional websites, and practical solutions.
@@ -46,7 +43,7 @@ Our goal is simple:
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Services-What_We_Do-365D7A?style=for-the-badge">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=999999&color=4F7EA8&center=true&width=220&lines=Services"/>
 </p>
 
 ```diff
@@ -75,18 +72,18 @@ Our goal is simple:
   <img src="https://img.shields.io/badge/Our-Approach-365D7A?style=for-the-badge">
 </p>
 
-⚫ Understand the idea.
+⚫ Understand the idea. Every project begins with a conversation, not code.
 
-🔵 Design the experience.
+🔵 Design the experience. We listen first, understand the goal, and then build digital experiences that feel natural, modern, and meaningful.
 
-⚪ Build the solution.
+⚪ Build the solution. Because good design isn't decoration. It's direction.
 
 📈 Help it grow.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Why-SurePath-365D7A?style=for-the-badge">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Why+SurePath&fontColor=ffffff&fontSize=20"/>
 </p>
 
 > Every successful journey starts with finding the right path.
@@ -99,13 +96,19 @@ No overengineering.
 
 Just meaningful solutions.
 
+> We don't build websites simply to make pages.
+
+> We build experiences that help ideas grow, businesses connect, and brands leave a lasting impression.
+
+> Simplicity, functionality, and thoughtful design remain at the center of everything we create.
+
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Connect-With_Us-365D7A?style=for-the-badge">
-</p>
 
-<p align="center">
+# ✦ Connect With Us ✦
+
+</p>
 
 <a href="https://nobhino-nk.github.io/SurePath/">
 <img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
@@ -115,13 +118,15 @@ Just meaningful solutions.
 <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <a href="https://github.com/surepathofficial-dev">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+
 
 </p>
 
