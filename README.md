@@ -28,7 +28,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=250&lines=About+SurePath"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=800&size=42&duration=4000&pause=999999&color=4F7EA8&center=true&vCenter=true&width=400&lines=About+SurePath"/>
 </p>
 
 SurePath is focused on helping businesses, individuals, and organizations establish their digital presence through clean design, functional websites, and practical solutions.
@@ -100,27 +100,23 @@ Just meaningful solutions.
 ---
 
 <p align="center">
+  <h1 align="center">✦ Connect With Us ✦</h1>
 
-# ✦ Connect With Us ✦
+  <a href="https://nobhino-nk.github.io/SurePath/">
+    <img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 
-<a href="https://nobhino-nk.github.io/SurePath/">
-<img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+  <a href="https://www.instagram.com/surep.ath?igsh=MXZqbnoyOG91aTh1MA==">
+    <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
-<a href="https://www.instagram.com/surep.ath?igsh=MXZqbnoyOG91aTh1MA==">
-<img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-365D7A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/surepathofficial-dev">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-
-
+  <a href="https://github.com/surepathofficial-dev">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
