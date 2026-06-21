@@ -44,7 +44,7 @@ Our goal is simple:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Services&fontColor=ffffff&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Services&fontColor=ffffff&fontSize=35"/>
 </p>
 
 ```diff
@@ -58,7 +58,7 @@ Our goal is simple:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Recent+Work&fontColor=ffffff&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Recent+Work&fontColor=ffffff&fontSize=35"/>
 </p>
 
 | Project | Website |
@@ -70,7 +70,7 @@ Our goal is simple:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Get+to+Know&fontColor=ffffff&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Get+to+Know&fontColor=ffffff&fontSize=35"/>
 </p>
 
 ⚫ Understand the idea. Every project begins with a conversation, not code.
@@ -84,7 +84,7 @@ Our goal is simple:
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Why+SurePath&fontColor=ffffff&fontSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=365D7A&text=Why+SurePath&fontColor=ffffff&fontSize=35"/>
 </p>
 
 > Every successful journey starts with finding the right path.
@@ -105,7 +105,7 @@ Just meaningful solutions.
 <table align="center">
 <tr>
 <td align="center">
-<a href="https://nobhino-nk.github.io/SurePath/">
+<a href="https://surepathoffcial-dev.github.io/home/">
 <img src="https://img.shields.io/badge/Website-365D7A?style=for-the-badge&logo=googlechrome&logoColor=white">
 </a>
 </td>
