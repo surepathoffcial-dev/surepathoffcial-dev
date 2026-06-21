@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:365D7A&text=SurePath&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Build%20•%20Grow%20•%20Scale&descAlignY=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:111111,100:365D7A&text=SurePath&fontSize=90&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Build%20•%20Grow%20•%20Scale&descAlignY=62"/>
 </p>
 
 <p align="center">
